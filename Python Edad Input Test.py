@@ -1,5 +1,7 @@
 #David Ruiz Python test
 
+#En desarrollo aún no está temrinado.
+
 #tambien puede ser edadYear.isalpha() == True:    
 #en la línea 4 
 
