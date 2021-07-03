@@ -1,6 +1,6 @@
 #David Ruiz Python test
 
-#En desarrollo aún no está temrinado.
+#En desarrollo aún no está terminado. 
 
 #tambien puede ser edadYear.isalpha() == True:    
 #en la línea 4 
